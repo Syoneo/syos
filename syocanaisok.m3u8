@@ -18,6 +18,129 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 group-title="👉🏻Canais | SBT 🌎" tvg-logo="https://i.imgur.com/KO1v3pS.png",SBT CIDADE VERDE FHD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
+
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/Sa86nNV.png",Premiere 2 HD
+https://cr7v.short.gy/Canal2/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/vdKC1eu.png",Premiere 3 HD
+https://cr7v.short.gy/Canal3/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/n5KKEiL.png",Premiere 4 HD
+https://cr7v.short.gy/Canal4/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/qVVCNKG.png",Premiere 5 HD
+https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/4CAJWni.png",Premiere 6 HD
+https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/T6VmjYB.png",Premiere Clubes FHD
+https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/T6VmjYB.png",Premiere Clubes HD
+https://cr7v.short.gy/Canal1/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | SPORT⚽" tvg-logo="https://i.imgur.com/ZpjPkqS.png",SporTV 2 HD
+http://79.127.243.211:14469/
+#EXTINF:-1 group-title="👉CANAIS | SPORT⚽" tvg-logo="https://i.imgur.com/ttHpdGp.png",SporTV 3 HD
+http://79.127.243.211:14473/
+#EXTINF:-1 group-title="👉CANAIS | ESPN⚽" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2 HD
+http://46.151.196.223:14438/
+#EXTINF:-1 group-title="👉CANAIS | ESPN⚽" tvg-logo="https://i.imgur.com/VCPTlBD.png",ESPN 3 HD
+http://46.151.196.223:14444/
+#EXTINF:-1 group-title="👉CANAIS | ESPN⚽" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 HD
+http://79.127.243.211:14514/
+#EXTINF:-1 group-title="👉CANAIS | ESPN⚽" tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 5 HD
+http://streaming.sattvgo.com.br/ESPN5/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 6 HD
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/LSZ5VKi.png",Band Sports HD
+http://streaming.sattvgo.com.br/BAND_SPORTS_HD/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/TnHuVPZ.png",Ge TV HD (SamsungTV)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/TnHuVPZ.png",Ge TV FHD (SamsungTV)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/oJJ8AAI.png",Cazé TV HD
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/oJJ8AAI.png",Cazé TV FHD
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/RSHGmuX.png",Desempedido HD
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/RSHGmuX.png",Desempedido FHD
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png",Pluto TV Esportes
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png",FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/TQFWEIS.png",Canal do Inter
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://imgur.com/tbdL42j.png",PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/7HTxrEq.png",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ao vivo | ESPORTES" tvg-logo="https://i.imgur.com/6fU9ulW.png",Esportes Brasília
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/6fU9ulW.png",Esportes Brasília
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2 FHD
+http://46.151.196.223:14438/
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/VCPTlBD.png",ESPN 3 FHD
+http://46.151.196.223:14444/
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 HD
+http://46.151.196.223:14450/
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/RSHGmuX.png",Desempedido HD
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/RSHGmuX.png",Desempedido FHD
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/oJJ8AAI.png",CazéTV HD
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/oJJ8AAI.png",CazéTV FHD
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/SY31PgU.png",Ge Fast HD
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/TQFWEIS.png",Canal do Inter
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://imgur.com/tbdL42j.png",PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png",FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽",ALL SPORTS
+http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽",ALL SPORTS
+http://168.205.87.198:8555/live/1431/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽",ALL SPORTS
+http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/BKaEtqL.png",Astrahan.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/ulGKX30.png",👉CANAIS | ESPORTES ⚽Grid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/BHm0wem.png",Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/BHm0wem.png",Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽",FIGHT SPORTS (1080p)
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/7xmaoL0.png",Insight TV
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/RPJiolQ.png",Midpen Media Center Youth 👉🏻Canais | Abertos 🌎 and 👉CANAIS | ESPORTES ⚽ Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/3lp7suq.png",Pac 12 Insider (1080p)
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",Pluto TV NFL Channel (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/PGm944g.png",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/WEM9B83.png",Tennis Channel (UK) (720p)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽",Trace  Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png",Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/LmkNt3v.png",Unbeaten
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/D4mZ8ll.png",W14DK-D5
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 group-title="👉Canais | LUTAS🤼‍♂️" tvg-logo="https://i.imgur.com/HIiZUQN.png",Combate HD
+http://46.151.196.223:14468/
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="👉🏻 Animes 🧑🏻",ATTACK ON TITAN S01 E01
 http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x1.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="👉🏻 Animes 🧑🏻",ATTACK ON TITAN S01 E02
@@ -8893,5 +9016,6 @@ https://eos.feralhosting.com/inazu/Tokusatsu/Winspector/47.mp4
 https://eos.feralhosting.com/inazu/Tokusatsu/Winspector/48.mp4
 #EXTINF:-1 group-title="👉🏻Tokusatsu🥋" tvg-logo="https://animesdrive.blog/wp-content/uploads/2025/07/cjATkbcmt9dM8LmrwK1u5tFQCRi.jpg",Winspector t1p49
 https://eos.feralhosting.com/inazu/Tokusatsu/Winspector/49.mp4
+
 
 
