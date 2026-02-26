@@ -1193,33 +1193,33 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="👉CANAIS | NOVELAS 🎬" tvg-logo="https://i.imgur.com/l5BDImW.png",TV Telemundo Telenovelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
-#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/Sa86nNV.png",Premiere 2 HD
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE ⚽" tvg-logo="https://i.imgur.com/Sa86nNV.png",Premiere 2 HD
 https://cr7v.short.gy/Canal2/index.m3u8
-#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/vdKC1eu.png",Premiere 3 HD
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE ⚽" tvg-logo="https://i.imgur.com/vdKC1eu.png",Premiere 3 HD
 https://cr7v.short.gy/Canal3/index.m3u8
-#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/n5KKEiL.png",Premiere 4 HD
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE ⚽" tvg-logo="https://i.imgur.com/n5KKEiL.png",Premiere 4 HD
 https://cr7v.short.gy/Canal4/index.m3u8
-#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/qVVCNKG.png",Premiere 5 HD
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE ⚽" tvg-logo="https://i.imgur.com/qVVCNKG.png",Premiere 5 HD
 https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
-#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/4CAJWni.png",Premiere 6 HD
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE ⚽" tvg-logo="https://i.imgur.com/4CAJWni.png",Premiere 6 HD
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
-#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/T6VmjYB.png",Premiere Clubes FHD
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE ⚽" tvg-logo="https://i.imgur.com/T6VmjYB.png",Premiere Clubes FHD
 https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
-#EXTINF:-1 group-title="👉CANAIS | PREMIERE⚽" tvg-logo="https://i.imgur.com/T6VmjYB.png",Premiere Clubes HD
+#EXTINF:-1 group-title="👉CANAIS | PREMIERE ⚽" tvg-logo="https://i.imgur.com/T6VmjYB.png",Premiere Clubes HD
 https://cr7v.short.gy/Canal1/index.m3u8
-#EXTINF:-1 group-title="👉CANAIS | ESPN⚽" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2 HD
+#EXTINF:-1 group-title="👉CANAIS | ESPN ⚽" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2 HD
 http://46.151.196.223:14438/
-#EXTINF:-1 group-title="👉CANAIS | ESPN⚽" tvg-logo="https://i.imgur.com/VCPTlBD.png",ESPN 3 HD
+#EXTINF:-1 group-title="👉CANAIS | ESPN ⚽" tvg-logo="https://i.imgur.com/VCPTlBD.png",ESPN 3 HD
 http://46.151.196.223:14444/
-#EXTINF:-1 group-title="👉CANAIS | ESPN⚽" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 HD
+#EXTINF:-1 group-title="👉CANAIS | ESPN ⚽" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 HD
 http://79.127.243.211:14514/
-#EXTINF:-1 group-title="👉CANAIS | ESPN⚽" tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 5 HD
+#EXTINF:-1 group-title="👉CANAIS | ESPN ⚽" tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 5 HD
 http://streaming.sattvgo.com.br/ESPN5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="👉CANAIS | ESPN⚽" tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 6 HD
+#EXTINF:-1 group-title="👉CANAIS | ESPN ⚽" tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 6 HD
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
-#EXTINF:-1 group-title="👉CANAIS | ESPORTES⚽" tvg-logo="https://i.imgur.com/ZpjPkqS.png",SporTV 2 HD
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/ZpjPkqS.png",SporTV 2 HD
 http://79.127.243.211:14469/
-#EXTINF:-1 group-title="👉CANAIS | ESPORTES⚽" tvg-logo="https://i.imgur.com/ttHpdGp.png",SporTV 3 HD
+#EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/ttHpdGp.png",SporTV 3 HD
 http://79.127.243.211:14473/
 #EXTINF:-1 group-title="👉CANAIS | ESPORTES ⚽" tvg-logo="https://i.imgur.com/LSZ5VKi.png",Band Sports HD
 http://streaming.sattvgo.com.br/BAND_SPORTS_HD/index.m3u8
