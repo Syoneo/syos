@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 group-title="CANAIS|GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo SP HD
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 group-title="CANAIS|GLOBO" tvg-logo="https://i.imgur.com/0Pb8NOA.png",GloboBAHD
