@@ -787,20 +787,16 @@ https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
 http://185.152.67.187:14386/
 #EXTINF:-1 group-title="CANAIS|ABETOS" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png",PlutotvInvestigação
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f85e9ccf-0cae-11ec-8588-0242ac110003&sid=f85e9ccf-0cae-11ec-8588-0242ac110003&userId=
-#EXTINF:-1 group-title="CANAIS|ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/73ac2e181b431fc90218ad2caf994c27.webp",DoFundodoBaú
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w682212984.m3u8
-#EXTINF:-1 group-title="CANAIS|ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0a3c3c7b9a651e847d86dd71bbb5551.webp",GOSPELCARTOON
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS|ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp",OtakuSign
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS|ANIMES" tvg-logo="https://i.imgur.com/2HaiovZ.png",HalloAnimeHD²
 https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
-#EXTINF:-1 group-title="CANAIS|ANIMES & GEEK" tvg-logo="https://i.imgur.com/C5nMqAf.png",WORDING TV
-https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
-#EXTINF:-1 group-title="CANAIS|ANIMES & GEEK" tvg-logo="https://i.imgur.com/NMMtJ8F.png",Geekdot​
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 group-title="CANAIS|ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",Animax
-https://stream.ichibantv.com:3547/hybrid/play.m3u8
+#EXTINF:-1 group-title="CANAIS|ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/1d08352f33c92124373d9f3b0fcf2ef8.webp",LOADING.TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS|ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/82f20da9a5abfbf7420a5058a7852cab.webp",ANIMETV
+https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w559747303.m3u8
+#EXTINF:-1 group-title="CANAIS|ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7856d68f41f8f261c2cdeca2b92dce7b.webp",OS JETSON
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS|COMEDIA" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png",FailArmy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
 #EXTINF:-1 group-title="CANAIS|ESPN" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2 HD
