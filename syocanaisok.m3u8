@@ -74,9 +74,9 @@ https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://img.platform.wurl.dev/channel/2176/lg/3943d0/LG-Logo-PNG-100x100_v1.png",Terra Viva
 https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png",BandMGHD
+#EXTINF:-1 group-title="CANAIS | BANDTV" tvg-logo="https://i.imgur.com/nCJNjyN.png",BandMGHD
 http://168.205.87.198:8555/live/1143/123456/19.m3u8
-#EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png",BandRJHD
+#EXTINF:-1 group-title="CANAIS | BANDTV" tvg-logo="https://i.imgur.com/nCJNjyN.png",BandRJHD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/3
 #EXTINF:-1 group-title="AO VIVO | BRASILEIRÃO" tvg-logo="https://i.imgur.com/mK9NklK.png",Brasileirão 7
 https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
@@ -386,593 +386,593 @@ https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1960836974_b8
 https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1960836974_b1596000.m3u8
 #EXTINF:-1 group-title="CANAIS | ABERTO" tvg-logo="https://i.imgur.com/OP1rFwr.png",TV Paraná Turismo
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/Ak037l4.png",TVGazetaHD
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/Ak037l4.png",TVGazetaHD
 https://stream1.freetv.fun/tv-gazeta-1.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/NhguLFB.png",PlutoTVMistérios
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/NhguLFB.png",PlutoTVMistérios
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=469630a0-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e6159be-c98a-4ef4-89d8-635378b7761d&userId=&serverSideAds=true
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/BLTWN9D.png",FitDance
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/BLTWN9D.png",FitDance
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Offgrid/Fitdance_BR/Fitdance.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/4tZ3u77.png",PlutoTVVidaReal
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/4tZ3u77.png",PlutoTVVidaReal
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/2MH0O0X.png",Tastemade
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/2MH0O0X.png",Tastemade
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9784ae40-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c4b7db2-88f3-4c00-8114-c9f5bcca8459&userId=&serverSideAds=true
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",AtlantaChannel¹(USA)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",AtlantaChannel¹(USA)
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",AWTV
+#EXTINF:-1 group-title="CANAIS | ABETO",AWTV
 http://168.205.87.198:8555/live/1431/123456/181.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",AWTV
+#EXTINF:-1 group-title="CANAIS | ABETO",AWTV
 http://168.205.87.198:8555/live/5803/123456/181.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV(1080p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV(1080p)
 http://194.163.179.246/slovenci/djeciji/babytv.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",BadenTV²(Alemanha)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",BadenTV²(Alemanha)
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",BAND
+#EXTINF:-1 group-title="CANAIS | ABETO",BAND
 http://168.205.87.198:8555/live/1431/123456/19.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",BAND
+#EXTINF:-1 group-title="CANAIS | ABETO",BAND
 http://168.205.87.198:8555/live/5803/123456/19.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",BANDNEWS
+#EXTINF:-1 group-title="CANAIS | ABETO",BANDNEWS
 http://168.205.87.198:8555/live/5803/123456/174.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",BANDSPORTS
+#EXTINF:-1 group-title="CANAIS | ABETO",BANDSPORTS
 http://168.205.87.198:8555/live/5803/123456/176.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",BeachTV-30AUSA
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",BeachTV-30AUSA
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",BeachTV-PanamaCityUSA
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",BeachTV-PanamaCityUSA
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",BeachTV-PawleysIslandUSA
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",BeachTV-PawleysIslandUSA
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",BeachTV(PanamaCity)(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",BeachTV(PanamaCity)(720p)
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",BOAVONTADETV
+#EXTINF:-1 group-title="CANAIS | ABETO",BOAVONTADETV
 http://168.205.87.198:8555/live/1431/123456/21.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",BOAVONTADETV
+#EXTINF:-1 group-title="CANAIS | ABETO",BOAVONTADETV
 http://168.205.87.198:8555/live/5803/123456/21.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",BRA
+#EXTINF:-1 group-title="CANAIS | ABETO",BRA
 http://168.205.87.198:8555/live/1431/123456/24.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",BRA
+#EXTINF:-1 group-title="CANAIS | ABETO",BRA
 http://168.205.87.198:8555/live/5803/123456/24.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",BRSUPERTV
+#EXTINF:-1 group-title="CANAIS | ABETO",BRSUPERTV
 http://168.205.87.198:8555/live/1431/123456/147.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",BRSUPERTV
+#EXTINF:-1 group-title="CANAIS | ABETO",BRSUPERTV
 http://168.205.87.198:8555/live/5803/123456/147.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/M6FFkc3.png",ArtsShowcase
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/M6FFkc3.png",ArtsShowcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",Atlântida94.3FM(P.Alegre-RS)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",Atlântida94.3FM(P.Alegre-RS)
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",BOSSANOVA
+#EXTINF:-1 group-title="CANAIS | ABETO",BOSSANOVA
 http://168.205.87.198:8555/live/1431/123456/85.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",BOSSANOVA
+#EXTINF:-1 group-title="CANAIS | ABETO",BOSSANOVA
 http://168.205.87.198:8555/live/5803/123456/85.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",Channel(Japão)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",Channel(Japão)
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",FESTA
+#EXTINF:-1 group-title="CANAIS | ABETO",FESTA
 http://168.205.87.198:8555/live/1431/123456/86.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",FESTA
+#EXTINF:-1 group-title="CANAIS | ABETO",FESTA
 http://168.205.87.198:8555/live/5803/123456/86.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",JovemPanFM(SP)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",JovemPanFM(SP)
 http://centova6.ciclanohost.com.br:9256//;stream.mp3
-#EXTINF:-1 group-title="CANAIS | ABETOS",LOUNGE
+#EXTINF:-1 group-title="CANAIS | ABETO",LOUNGE
 http://168.205.87.198:8555/live/1431/123456/87.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",LOUNGE
+#EXTINF:-1 group-title="CANAIS | ABETO",LOUNGE
 http://168.205.87.198:8555/live/5803/123456/87.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",MaxTV¹(USA)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",MaxTV¹(USA)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",METAL
+#EXTINF:-1 group-title="CANAIS | ABETO",METAL
 http://168.205.87.198:8555/live/1431/123456/89.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",METAL
+#EXTINF:-1 group-title="CANAIS | ABETO",METAL
 http://168.205.87.198:8555/live/5803/123456/89.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",MÚSICACLÁSSICA
+#EXTINF:-1 group-title="CANAIS | ABETO",MÚSICACLÁSSICA
 http://168.205.87.198:8555/live/1431/123456/88.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",MÚSICACLÁSSICA
+#EXTINF:-1 group-title="CANAIS | ABETO",MÚSICACLÁSSICA
 http://168.205.87.198:8555/live/5803/123456/88.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",NEWROCK
+#EXTINF:-1 group-title="CANAIS | ABETO",NEWROCK
 http://168.205.87.198:8555/live/1431/123456/90.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",NEWROCK
+#EXTINF:-1 group-title="CANAIS | ABETO",NEWROCK
 http://168.205.87.198:8555/live/5803/123456/90.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",PAGODE
+#EXTINF:-1 group-title="CANAIS | ABETO",PAGODE
 http://168.205.87.198:8555/live/1431/123456/91.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",PAGODE
+#EXTINF:-1 group-title="CANAIS | ABETO",PAGODE
 http://168.205.87.198:8555/live/5803/123456/91.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",POPHITS
+#EXTINF:-1 group-title="CANAIS | ABETO",POPHITS
 http://168.205.87.198:8555/live/1431/123456/92.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",POPHITS
+#EXTINF:-1 group-title="CANAIS | ABETO",POPHITS
 http://168.205.87.198:8555/live/5803/123456/92.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",POPROCK
+#EXTINF:-1 group-title="CANAIS | ABETO",POPROCK
 http://168.205.87.198:8555/live/1431/123456/93.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",POPROCK
+#EXTINF:-1 group-title="CANAIS | ABETO",POPROCK
 http://168.205.87.198:8555/live/5803/123456/93.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TRILHASSONORAS
+#EXTINF:-1 group-title="CANAIS | ABETO",TRILHASSONORAS
 http://168.205.87.198:8555/live/1431/123456/95.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TRILHASSONORAS
+#EXTINF:-1 group-title="CANAIS | ABETO",TRILHASSONORAS
 http://168.205.87.198:8555/live/5803/123456/95.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",y(1080p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",y(1080p)
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",y(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",y(720p)
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",y(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",y(720p)
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png",CANAIS | FilmesSuspense|PlutoTVBrasil
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png",CANAIS | FilmesSuspense|PlutoTVBrasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
-#EXTINF:-1 group-title="CANAIS | ABETOS",CANALDOBOI
+#EXTINF:-1 group-title="CANAIS | ABETO",CANALDOBOI
 http://168.205.87.198:8555/live/1431/123456/167.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CANALDOBOI
+#EXTINF:-1 group-title="CANAIS | ABETO",CANALDOBOI
 http://168.205.87.198:8555/live/5803/123456/167.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CANALSAÚDE
+#EXTINF:-1 group-title="CANAIS | ABETO",CANALSAÚDE
 http://168.205.87.198:8555/live/1431/123456/165.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CANALSAÚDE
+#EXTINF:-1 group-title="CANAIS | ABETO",CANALSAÚDE
 http://168.205.87.198:8555/live/5803/123456/165.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CANALYEEAAH
+#EXTINF:-1 group-title="CANAIS | ABETO",CANALYEEAAH
 http://168.205.87.198:8555/live/1431/123456/193.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CANALYEEAAH
+#EXTINF:-1 group-title="CANAIS | ABETO",CANALYEEAAH
 http://168.205.87.198:8555/live/5803/123456/193.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",Canale7(Itália)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",Canale7(Itália)
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",CANÇÃONOVA
+#EXTINF:-1 group-title="CANAIS | ABETO",CANÇÃONOVA
 http://168.205.87.198:8555/live/1431/123456/25.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CANÇÃONOVA
+#EXTINF:-1 group-title="CANAIS | ABETO",CANÇÃONOVA
 http://168.205.87.198:8555/live/5803/123456/25.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",Boston(USA)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",Boston(USA)
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",CBS(USA)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",CBS(USA)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",CBSLosAngeles(USA)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",CBSLosAngeles(USA)
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",CBSN
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",CBSN(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",CBSN(720p)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",CBSNBayArea
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",CBSNBayArea
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",CBSNBoston
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",CBSNBoston
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",CBSNMinnesota
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",CBSNMinnesota
 https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",CBSNNewYork
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",CBSNNewYork
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",CBSNNewYork(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",CBSNNewYork(720p)
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
-#EXTINF:-1 group-title="CANAIS | ABETOS",CENTRALTV
+#EXTINF:-1 group-title="CANAIS | ABETO",CENTRALTV
 http://168.205.87.198:8555/live/1431/123456/177.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CENTRALTV
+#EXTINF:-1 group-title="CANAIS | ABETO",CENTRALTV
 http://168.205.87.198:8555/live/5803/123456/177.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CHESPIRITO
+#EXTINF:-1 group-title="CANAIS | ABETO",CHESPIRITO
 http://168.205.87.198:8555/live/1431/123456/159.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CHESPIRITO
+#EXTINF:-1 group-title="CANAIS | ABETO",CHESPIRITO
 http://168.205.87.198:8555/live/5803/123456/159.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",ChristianYouthChannel(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",ChristianYouthChannel(720p)
 http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",CINE
+#EXTINF:-1 group-title="CANAIS | ABETO",CINE
 http://168.205.87.198:8555/live/1431/123456/145.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CINE
+#EXTINF:-1 group-title="CANAIS | ABETO",CINE
 http://168.205.87.198:8555/live/5803/123456/145.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CLASSICHITS
+#EXTINF:-1 group-title="CANAIS | ABETO",CLASSICHITS
 http://168.205.87.198:8555/live/1431/123456/27.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CLASSICHITS
+#EXTINF:-1 group-title="CANAIS | ABETO",CLASSICHITS
 http://168.205.87.198:8555/live/5803/123456/27.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CLASSIQUETV
+#EXTINF:-1 group-title="CANAIS | ABETO",CLASSIQUETV
 http://168.205.87.198:8555/live/1431/123456/190.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CLASSIQUETV
+#EXTINF:-1 group-title="CANAIS | ABETO",CLASSIQUETV
 http://168.205.87.198:8555/live/5803/123456/190.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CLCFILMESCLÁSSICOS
+#EXTINF:-1 group-title="CANAIS | ABETO",CLCFILMESCLÁSSICOS
 http://168.205.87.198:8555/live/1431/123456/198.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CLCFILMESCLÁSSICOS
+#EXTINF:-1 group-title="CANAIS | ABETO",CLCFILMESCLÁSSICOS
 http://168.205.87.198:8555/live/5803/123456/198.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png",CNAInternational(1080p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png",CNAInternational(1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",CNT
+#EXTINF:-1 group-title="CANAIS | ABETO",CNT
 http://168.205.87.198:8555/live/1431/123456/150.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CNT
+#EXTINF:-1 group-title="CANAIS | ABETO",CNT
 http://168.205.87.198:8555/live/5803/123456/150.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",ComedyCentral|Brasil
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",ComedyCentral|Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
-#EXTINF:-1 group-title="CANAIS | ABETOS",CULT
+#EXTINF:-1 group-title="CANAIS | ABETO",CULT
 http://168.205.87.198:8555/live/1431/123456/30.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CULT
+#EXTINF:-1 group-title="CANAIS | ABETO",CULT
 http://168.205.87.198:8555/live/5803/123456/30.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CULTURA
+#EXTINF:-1 group-title="CANAIS | ABETO",CULTURA
 http://168.205.87.198:8555/live/1431/123456/32.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",CULTURA
+#EXTINF:-1 group-title="CANAIS | ABETO",CULTURA
 http://168.205.87.198:8555/live/5803/123456/32.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://cdn.mitvstatic.com/channels/br_cultura_m.png",CulturaPRCatve(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://cdn.mitvstatic.com/channels/br_cultura_m.png",CulturaPRCatve(720p)
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",DarcizzleOffshore(USA)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",DarcizzleOffshore(USA)
 http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/logos/imagens/dw.png",DeutscheWelle
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/logos/imagens/dw.png",DeutscheWelle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",ElPinguinoTv(Chile)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",ElPinguinoTv(Chile)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",EuroIndieCANAIS | Musicas(ReinoUnido)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",EuroIndieCANAIS | Musicas(ReinoUnido)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/UDFBYpN.png",EuroIndieCANAIS | MusicasChartTV(360p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/UDFBYpN.png",EuroIndieCANAIS | MusicasChartTV(360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",ExtremaTV(CostaRica)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",ExtremaTV(CostaRica)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",EXTREMOORIENTALTV
+#EXTINF:-1 group-title="CANAIS | ABETO",EXTREMOORIENTALTV
 http://168.205.87.198:8555/live/1431/123456/196.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",EXTREMOORIENTALTV
+#EXTINF:-1 group-title="CANAIS | ABETO",EXTREMOORIENTALTV
 http://168.205.87.198:8555/live/5803/123456/196.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/NF6PL8O.png",FalaLitoral(480p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/NF6PL8O.png",FalaLitoral(480p)
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/X3lIFxM.png",FALALITORALWEBTV
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/X3lIFxM.png",FALALITORALWEBTV
 https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",FANDOMTV
+#EXTINF:-1 group-title="CANAIS | ABETO",FANDOMTV
 http://168.205.87.198:8555/live/1431/123456/197.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",FANDOMTV
+#EXTINF:-1 group-title="CANAIS | ABETO",FANDOMTV
 http://168.205.87.198:8555/live/5803/123456/197.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",FASHIONTV
+#EXTINF:-1 group-title="CANAIS | ABETO",FASHIONTV
 http://168.205.87.198:8555/live/5803/123456/61.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",FISHTV
+#EXTINF:-1 group-title="CANAIS | ABETO",FISHTV
 http://168.205.87.198:8555/live/1431/123456/62.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",FISHTV
+#EXTINF:-1 group-title="CANAIS | ABETO",FISHTV
 http://168.205.87.198:8555/live/5803/123456/62.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/logos/imagens/fm-o-dia-foto.jpg",FMODIA100.5-ESTÚDIOAOVIVO
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/logos/imagens/fm-o-dia-foto.jpg",FMODIA100.5-ESTÚDIOAOVIVO
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",FonteTV³(Goiânia–GO)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",FonteTV³(Goiânia–GO)
 http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist_w1903947223.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png",FonteTV(GO)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png",FonteTV(GO)
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",France24H¹(ReinoUnido)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",France24H¹(ReinoUnido)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",France24H²(França)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",France24H²(França)
 http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",FUTURA
+#EXTINF:-1 group-title="CANAIS | ABETO",FUTURA
 http://168.205.87.198:8555/live/1431/123456/67.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",FUTURA
+#EXTINF:-1 group-title="CANAIS | ABETO",FUTURA
 http://168.205.87.198:8555/live/5803/123456/67.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",GAZETA
+#EXTINF:-1 group-title="CANAIS | ABETO",GAZETA
 http://168.205.87.198:8555/live/1431/123456/69.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",GAZETA
+#EXTINF:-1 group-title="CANAIS | ABETO",GAZETA
 http://168.205.87.198:8555/live/5803/123456/69.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1dd08ff2959bb19209a7a49b72765d53.webp",HISTORYLAB
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1dd08ff2959bb19209a7a49b72765d53.webp",HISTORYLAB
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",HITTS
+#EXTINF:-1 group-title="CANAIS | ABETO",HITTS
 http://168.205.87.198:8555/live/1431/123456/72.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",HITTS
+#EXTINF:-1 group-title="CANAIS | ABETO",HITTS
 http://168.205.87.198:8555/live/5803/123456/72.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",ICITelevisionCanadá
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",ICITelevisionCanadá
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",InfoWars(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",InfoWars(720p)
 https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/YSIvnhC.png",ISTV
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/YSIvnhC.png",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",IURDTV
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",IURDTV
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",JovemPanCANAIS | ABETOS(JPCANAIS | ABETOS)(1080p)[Not24/7]
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",JovemPanCANAIS | ABETO(JPCANAIS | ABETO)(1080p)[Not24/7]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",JPNEWS
+#EXTINF:-1 group-title="CANAIS | ABETO",JPNEWS
 http://168.205.87.198:8555/live/1431/123456/161.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",JPNEWS
+#EXTINF:-1 group-title="CANAIS | ABETO",JPNEWS
 http://168.205.87.198:8555/live/5803/123456/161.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",KeyTV(USA)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",KeyTV(USA)
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",KIDS
+#EXTINF:-1 group-title="CANAIS | ABETO",KIDS
 http://168.205.87.198:8555/live/1431/123456/143.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",KIDS
+#EXTINF:-1 group-title="CANAIS | ABETO",KIDS
 http://168.205.87.198:8555/live/5803/123456/143.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",KroneHitCANAIS | Musicas²(Áustria)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",KroneHitCANAIS | Musicas²(Áustria)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05ad1060b11abe78c4958ca305b2d168.webp",KURIAKOSKIDS
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05ad1060b11abe78c4958ca305b2d168.webp",KURIAKOSKIDS
 http://w2.manasat.com:1935/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",KVVB-TV33(USA)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",KVVB-TV33(USA)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",LasVegas-13ActionCANAIS | ABETOS(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",LasVegas-13ActionCANAIS | ABETO(720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
-#EXTINF:-1 group-title="CANAIS | ABETOS",LIFECHANNEL
+#EXTINF:-1 group-title="CANAIS | ABETO",LIFECHANNEL
 http://168.205.87.198:8555/live/1431/123456/192.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",LIFECHANNEL
+#EXTINF:-1 group-title="CANAIS | ABETO",LIFECHANNEL
 http://168.205.87.198:8555/live/5803/123456/192.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",LiveLive(1080p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",LiveLive(1080p)
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",LOADINGTV
+#EXTINF:-1 group-title="CANAIS | ABETO",LOADINGTV
 http://168.205.87.198:8555/live/5803/123456/142.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",LogosTV¹(España)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",LogosTV¹(España)
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",LogosTV²(España)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",LogosTV²(España)
 https://streamer1.streamhost.org/salive/logosH/chunklist_w168103485.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",MASTERTV
+#EXTINF:-1 group-title="CANAIS | ABETO",MASTERTV
 http://168.205.87.198:8555/live/1431/123456/74.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",MASTERTV
+#EXTINF:-1 group-title="CANAIS | ABETO",MASTERTV
 http://168.205.87.198:8555/live/5803/123456/74.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/FioVeSb.png",MASTERTVPR
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/FioVeSb.png",MASTERTVPR
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/featuredImage.jpg",MasterChef|Brasil
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/featuredImage.jpg",MasterChef|Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 group-title="CANAIS | ABETOS",MEGA
+#EXTINF:-1 group-title="CANAIS | ABETO",MEGA
 http://168.205.87.198:8555/live/1431/123456/75.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",MEGA
+#EXTINF:-1 group-title="CANAIS | ABETO",MEGA
 http://168.205.87.198:8555/live/5803/123456/75.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",Mir24Rússia
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",Mir24Rússia
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",MUSICBOX
+#EXTINF:-1 group-title="CANAIS | ABETO",MUSICBOX
 http://168.205.87.198:8555/live/5803/123456/77.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",NASATVMedia(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",NASATVMedia(720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",NASATVPublic(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",NASATVPublic(720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",NBC15MadisonWI(WMTVNBC)(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",NBC15MadisonWI(WMTVNBC)(720p)
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",NBC26(WGBA)(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",NBC26(WGBA)(720p)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",NBCNow(1080p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",NBCNow(1080p)
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",NewOrleansTV(USA)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",NewOrleansTV(USA)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",NothingScripted
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",NothingScripted
 https://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",NOVATV
+#EXTINF:-1 group-title="CANAIS | ABETO",NOVATV
 http://168.205.87.198:8555/live/1431/123456/195.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",NOVATV
+#EXTINF:-1 group-title="CANAIS | ABETO",NOVATV
 http://168.205.87.198:8555/live/5803/123456/195.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",NOVOTEMPO
+#EXTINF:-1 group-title="CANAIS | ABETO",NOVOTEMPO
 http://168.205.87.198:8555/live/1431/123456/149.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",NOVOTEMPO
+#EXTINF:-1 group-title="CANAIS | ABETO",NOVOTEMPO
 http://168.205.87.198:8555/live/5803/123456/149.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",NRBTV(480p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",NRBTV(480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/featuredImage.jpg",Oencantadordecães|Brasil
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/featuredImage.jpg",Oencantadordecães|Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
-#EXTINF:-1 group-title="CANAIS | ABETOS",ONDAOESTE
+#EXTINF:-1 group-title="CANAIS | ABETO",ONDAOESTE
 http://168.205.87.198:8555/live/1431/123456/169.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",ONDAOESTE
+#EXTINF:-1 group-title="CANAIS | ABETO",ONDAOESTE
 http://168.205.87.198:8555/live/5803/123456/169.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",OrangeTV(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",OrangeTV(720p)
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",PAIETERNO
+#EXTINF:-1 group-title="CANAIS | ABETO",PAIETERNO
 http://168.205.87.198:8555/live/1431/123456/144.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",PAIETERNO
+#EXTINF:-1 group-title="CANAIS | ABETO",PAIETERNO
 http://168.205.87.198:8555/live/5803/123456/144.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",PBSKET(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",PBSKET(720p)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/05/petlovers.jpg",PetLoversTV
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/05/petlovers.jpg",PetLoversTV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/playtv.png",PlayTV
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/playtv.png",PlayTV
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",POLISHOP
+#EXTINF:-1 group-title="CANAIS | ABETO",POLISHOP
 http://168.205.87.198:8555/live/1431/123456/153.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",POLISHOP
+#EXTINF:-1 group-title="CANAIS | ABETO",POLISHOP
 http://168.205.87.198:8555/live/5803/123456/153.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",PORTAL
+#EXTINF:-1 group-title="CANAIS | ABETO",PORTAL
 http://168.205.87.198:8555/live/1431/123456/82.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",PORTAL
+#EXTINF:-1 group-title="CANAIS | ABETO",PORTAL
 http://168.205.87.198:8555/live/5803/123456/82.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",PRIMEBOX
+#EXTINF:-1 group-title="CANAIS | ABETO",PRIMEBOX
 http://168.205.87.198:8555/live/5803/123456/83.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/PMptSP3.png",PrimerTV(1080p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/PMptSP3.png",PrimerTV(1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",QUEENSUNITEDTV
+#EXTINF:-1 group-title="CANAIS | ABETO",QUEENSUNITEDTV
 http://168.205.87.198:8555/live/1431/123456/199.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",QUEENSUNITEDTV
+#EXTINF:-1 group-title="CANAIS | ABETO",QUEENSUNITEDTV
 http://168.205.87.198:8555/live/5803/123456/199.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",RATIMBUM
+#EXTINF:-1 group-title="CANAIS | ABETO",RATIMBUM
 http://168.205.87.198:8555/live/1431/123456/84.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",RATIMBUM
+#EXTINF:-1 group-title="CANAIS | ABETO",RATIMBUM
 http://168.205.87.198:8555/live/5803/123456/84.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/iC5UoAN.png",RecordCANAIS | ABETOS-PlutoTV|Brasil
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/iC5UoAN.png",RecordCANAIS | ABETO-PlutoTV|Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&
-#EXTINF:-1 group-title="CANAIS | ABETOS",RECORDMINAS
+#EXTINF:-1 group-title="CANAIS | ABETO",RECORDMINAS
 http://168.205.87.198:8555/live/1431/123456/96.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",RECORDMINAS
+#EXTINF:-1 group-title="CANAIS | ABETO",RECORDMINAS
 http://168.205.87.198:8555/live/5803/123456/96.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",RECORDNEWS
+#EXTINF:-1 group-title="CANAIS | ABETO",RECORDNEWS
 http://168.205.87.198:8555/live/1431/123456/97.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",RECORDNEWS
+#EXTINF:-1 group-title="CANAIS | ABETO",RECORDNEWS
 http://168.205.87.198:8555/live/5803/123456/97.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",RedBullTV(1080p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",RedBullTV(1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",RedBullTV²
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",RedBullTV²
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?IMDSFULL
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDEFAMILIA
+#EXTINF:-1 group-title="CANAIS | ABETO",REDEFAMILIA
 http://168.205.87.198:8555/live/1431/123456/151.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDEFAMILIA
+#EXTINF:-1 group-title="CANAIS | ABETO",REDEFAMILIA
 http://168.205.87.198:8555/live/5803/123456/151.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDEGENESIS
+#EXTINF:-1 group-title="CANAIS | ABETO",REDEGENESIS
 http://168.205.87.198:8555/live/1431/123456/98.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDEGENESIS
+#EXTINF:-1 group-title="CANAIS | ABETO",REDEGENESIS
 http://168.205.87.198:8555/live/5803/123456/98.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDEMETROPOLE
+#EXTINF:-1 group-title="CANAIS | ABETO",REDEMETROPOLE
 http://168.205.87.198:8555/live/1431/123456/99.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDEMETROPOLE
+#EXTINF:-1 group-title="CANAIS | ABETO",REDEMETROPOLE
 http://168.205.87.198:8555/live/5803/123456/99.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDEMINAS
+#EXTINF:-1 group-title="CANAIS | ABETO",REDEMINAS
 http://168.205.87.198:8555/live/1431/123456/101.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDEMINAS
+#EXTINF:-1 group-title="CANAIS | ABETO",REDEMINAS
 http://168.205.87.198:8555/live/5803/123456/101.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/ZFN1R4B.png",RedeNGT(1080p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/ZFN1R4B.png",RedeNGT(1080p)
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/1JqP03l.png",RedeSPTV|SPBrasil
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/1JqP03l.png",RedeSPTV|SPBrasil
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDESUPER
+#EXTINF:-1 group-title="CANAIS | ABETO",REDESUPER
 http://168.205.87.198:8555/live/1431/123456/163.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDESUPER
+#EXTINF:-1 group-title="CANAIS | ABETO",REDESUPER
 http://168.205.87.198:8555/live/5803/123456/163.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDETV
+#EXTINF:-1 group-title="CANAIS | ABETO",REDETV
 http://168.205.87.198:8555/live/1431/123456/102.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDETV
+#EXTINF:-1 group-title="CANAIS | ABETO",REDETV
 http://168.205.87.198:8555/live/5803/123456/102.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDEVIDA
+#EXTINF:-1 group-title="CANAIS | ABETO",REDEVIDA
 http://168.205.87.198:8555/live/1431/123456/103.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",REDEVIDA
+#EXTINF:-1 group-title="CANAIS | ABETO",REDEVIDA
 http://168.205.87.198:8555/live/5803/123456/103.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/12/redetv-pr.webp",RedeTV!TVPR
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/12/redetv-pr.webp",RedeTV!TVPR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",RIT
+#EXTINF:-1 group-title="CANAIS | ABETO",RIT
 http://168.205.87.198:8555/live/1431/123456/168.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",RIT
+#EXTINF:-1 group-title="CANAIS | ABETO",RIT
 http://168.205.87.198:8555/live/5803/123456/168.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SABOREARTE
+#EXTINF:-1 group-title="CANAIS | ABETO",SABOREARTE
 http://168.205.87.198:8555/live/5803/123456/172.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SCH
+#EXTINF:-1 group-title="CANAIS | ABETO",SCH
 http://168.205.87.198:8555/live/1431/123456/105.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SCH
+#EXTINF:-1 group-title="CANAIS | ABETO",SCH
 http://168.205.87.198:8555/live/5803/123456/105.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SECULO21
+#EXTINF:-1 group-title="CANAIS | ABETO",SECULO21
 http://168.205.87.198:8555/live/1431/123456/106.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SECULO21
+#EXTINF:-1 group-title="CANAIS | ABETO",SECULO21
 http://168.205.87.198:8555/live/5803/123456/106.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SÉRIESCLÁSSICAS
+#EXTINF:-1 group-title="CANAIS | ABETO",SÉRIESCLÁSSICAS
 http://168.205.87.198:8555/live/1431/123456/160.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SÉRIESCLÁSSICAS
+#EXTINF:-1 group-title="CANAIS | ABETO",SÉRIESCLÁSSICAS
 http://168.205.87.198:8555/live/5803/123456/160.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SESCTV
+#EXTINF:-1 group-title="CANAIS | ABETO",SESCTV
 http://168.205.87.198:8555/live/1431/123456/107.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SESCTV
+#EXTINF:-1 group-title="CANAIS | ABETO",SESCTV
 http://168.205.87.198:8555/live/5803/123456/107.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SHOPTIME
+#EXTINF:-1 group-title="CANAIS | ABETO",SHOPTIME
 http://168.205.87.198:8555/live/1431/123456/164.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",SHOPTIME
+#EXTINF:-1 group-title="CANAIS | ABETO",SHOPTIME
 http://168.205.87.198:8555/live/5803/123456/164.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/logos/imagens/logo_sic_2018.png",SIC(apenasemPortugal)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/logos/imagens/logo_sic_2018.png",SIC(apenasemPortugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",SMITHSONIAN
+#EXTINF:-1 group-title="CANAIS | ABETO",SMITHSONIAN
 http://168.205.87.198:8555/live/5803/123456/173.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",SolidariaTV(España)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",SolidariaTV(España)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",StadiumTVUSA
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",StadiumTVUSA
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",TCM
+#EXTINF:-1 group-title="CANAIS | ABETO",TCM
 http://168.205.87.198:8555/live/1431/123456/187.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TCM
+#EXTINF:-1 group-title="CANAIS | ABETO",TCM
 http://168.205.87.198:8555/live/5803/123456/187.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TERRAVIVA
+#EXTINF:-1 group-title="CANAIS | ABETO",TERRAVIVA
 http://168.205.87.198:8555/live/5803/123456/171.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TheCANAIS | ABETOSpingChannel(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TheCANAIS | ABETOpingChannel(720p)
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",TRAVEL
+#EXTINF:-1 group-title="CANAIS | ABETO",TRAVEL
 http://168.205.87.198:8555/live/5803/123456/124.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TurcomenistãoSport
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TurcomenistãoSport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TurcomenistãoSport
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TurcomenistãoSport
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TurcomenistãoSport
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TurcomenistãoSport
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TurcomenistãoSport
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TurcomenistãoSport
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/rsfnv4Z.png",TVAldeia(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/rsfnv4Z.png",TVAldeia(720p)
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/eqmOhtP.png",TVAliançaCatarinense(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/eqmOhtP.png",TVAliançaCatarinense(720p)
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVAPARECIDA
+#EXTINF:-1 group-title="CANAIS | ABETO",TVAPARECIDA
 http://168.205.87.198:8555/live/1431/123456/131.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVAPARECIDA
+#EXTINF:-1 group-title="CANAIS | ABETO",TVAPARECIDA
 http://168.205.87.198:8555/live/5803/123456/131.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png",TVAracati
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png",TVAracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/09/tvassembleia.png",TVAssembléiaMaceió
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/09/tvassembleia.png",TVAssembléiaMaceió
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/logos/imagens/tvdigitalbirigui.jpg",TVBirigui
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/logos/imagens/tvdigitalbirigui.jpg",TVBirigui
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",TVBrasil|TVUFG(GO)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",TVBrasil|TVUFG(GO)
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVBRUSQUE
+#EXTINF:-1 group-title="CANAIS | ABETO",TVBRUSQUE
 http://168.205.87.198:8555/live/1431/123456/183.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVBRUSQUE
+#EXTINF:-1 group-title="CANAIS | ABETO",TVBRUSQUE
 http://168.205.87.198:8555/live/5803/123456/183.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/J2EAZPS.png",TVBrusque(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/J2EAZPS.png",TVBrusque(720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg",TVBrusque(SC)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg",TVBrusque(SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TVBrusque¹(SC)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TVBrusque¹(SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TVBrusque³(SC)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TVBrusque³(SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w550563544.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVCÂMARA
+#EXTINF:-1 group-title="CANAIS | ABETO",TVCÂMARA
 http://168.205.87.198:8555/live/1431/123456/136.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVCÂMARA
+#EXTINF:-1 group-title="CANAIS | ABETO",TVCÂMARA
 http://168.205.87.198:8555/live/5803/123456/136.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TV
+#EXTINF:-1 group-title="CANAIS | ABETO",TV
 http://168.205.87.198:8555/live/1431/123456/134.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TV
+#EXTINF:-1 group-title="CANAIS | ABETO",TV
 http://168.205.87.198:8555/live/5803/123456/134.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TV2
+#EXTINF:-1 group-title="CANAIS | ABETO",TV2
 http://168.205.87.198:8555/live/1431/123456/135.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TV2
+#EXTINF:-1 group-title="CANAIS | ABETO",TV2
 http://168.205.87.198:8555/live/5803/123456/135.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/DPXwC9p.png",TVCHROMA
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/DPXwC9p.png",TVCHROMA
 https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/3xAPAkE.png",TVClube
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/3xAPAkE.png",TVClube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TVCULTURA
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TVCULTURA
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TVCulturaPR
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TVCulturaPR
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png",TVDestak-CANAIS | ABETOS
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png",TVDestak-CANAIS | ABETO
 https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVESCOLA
+#EXTINF:-1 group-title="CANAIS | ABETO",TVESCOLA
 http://168.205.87.198:8555/live/1431/123456/137.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVESCOLA
+#EXTINF:-1 group-title="CANAIS | ABETO",TVESCOLA
 http://168.205.87.198:8555/live/5803/123456/137.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVEVANGELIZAR
+#EXTINF:-1 group-title="CANAIS | ABETO",TVEVANGELIZAR
 http://168.205.87.198:8555/live/1431/123456/189.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVEVANGELIZAR
+#EXTINF:-1 group-title="CANAIS | ABETO",TVEVANGELIZAR
 http://168.205.87.198:8555/live/5803/123456/189.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/FY8kjgr.png",TVGALLO
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/FY8kjgr.png",TVGALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png",TVGallo-CANAIS | ABETOS
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png",TVGallo-CANAIS | ABETO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/MTuErdw.png",TVGrandeNatal(1080p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/MTuErdw.png",TVGrandeNatal(1080p)
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVJUSTIÇA
+#EXTINF:-1 group-title="CANAIS | ABETO",TVJUSTIÇA
 http://168.205.87.198:8555/live/1431/123456/138.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVJUSTIÇA
+#EXTINF:-1 group-title="CANAIS | ABETO",TVJUSTIÇA
 http://168.205.87.198:8555/live/5803/123456/138.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/bJyjLpg.png",TVMetropole(720p)[Not24/7]
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/bJyjLpg.png",TVMetropole(720p)[Not24/7]
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TVMetrópole¹(Caucaia-CE)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TVMetrópole¹(Caucaia-CE)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist-480p.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TVMetrópole³(Caucaia-CE)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TVMetrópole³(Caucaia-CE)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w2133373253.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://portalondasdemarica.com.br/wp-content/uploads/2022/09/cropped-logo-tv-ondas.png",TVONDASDEMARICÁ
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://portalondasdemarica.com.br/wp-content/uploads/2022/09/cropped-logo-tv-ondas.png",TVONDASDEMARICÁ
 https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVSENADO
+#EXTINF:-1 group-title="CANAIS | ABETO",TVSENADO
 http://168.205.87.198:8555/live/1431/123456/139.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVSENADO
+#EXTINF:-1 group-title="CANAIS | ABETO",TVSENADO
 http://168.205.87.198:8555/live/5803/123456/139.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/zq9ZcXP.png",TVSETELAGOAS
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/zq9ZcXP.png",TVSETELAGOAS
 https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://listaiptv.gratis/logos/imagens/tvjsid.png",TVSjid(BA)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://listaiptv.gratis/logos/imagens/tvjsid.png",TVSjid(BA)
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/OPIwjmg.png",TVSTACECILIA
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/OPIwjmg.png",TVSTACECILIA
 https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://imgur.com/1Nf2kbP.png",TVSULBAHIA
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://imgur.com/1Nf2kbP.png",TVSULBAHIA
 https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif",TVTerceiroAnjo(360p)[Not24/7]
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif",TVTerceiroAnjo(360p)[Not24/7]
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/5SKSkUQ.png",TVTudoBH(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/5SKSkUQ.png",TVTudoBH(720p)
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVTURFE
+#EXTINF:-1 group-title="CANAIS | ABETO",TVTURFE
 http://168.205.87.198:8555/live/1431/123456/152.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",TVTURFE
+#EXTINF:-1 group-title="CANAIS | ABETO",TVTURFE
 http://168.205.87.198:8555/live/5803/123456/152.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/TIsk5zN.png",TVUniversal
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/TIsk5zN.png",TVUniversal
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TVERS
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TVERS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/MQ6lJpS.png",TVERS(1080p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/MQ6lJpS.png",TVERS(1080p)
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TVERS²
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TVERS²
 http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="http://127.0.0.1/",TVERS³
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="http://127.0.0.1/",TVERS³
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w303484165.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/vstHOYx.png",TVídeoCANAIS | ABETOS(720p)[Not24/7]
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/vstHOYx.png",TVídeoCANAIS | ABETO(720p)[Not24/7]
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/XeqcwKe.png",TVitapé(720p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/XeqcwKe.png",TVitapé(720p)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/lPyJhBN.png",UNWebTV(540p)
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/lPyJhBN.png",UNWebTV(540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS",VRTCHANNEL
+#EXTINF:-1 group-title="CANAIS | ABETO",VRTCHANNEL
 http://168.205.87.198:8555/live/1431/123456/146.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",VRTCHANNEL
+#EXTINF:-1 group-title="CANAIS | ABETO",VRTCHANNEL
 http://168.205.87.198:8555/live/5803/123456/146.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",WOOHOO
+#EXTINF:-1 group-title="CANAIS | ABETO",WOOHOO
 http://168.205.87.198:8555/live/1431/123456/141.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",WOOHOO
+#EXTINF:-1 group-title="CANAIS | ABETO",WOOHOO
 http://168.205.87.198:8555/live/5803/123456/141.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",ZOOMOO
+#EXTINF:-1 group-title="CANAIS | ABETO",ZOOMOO
 http://168.205.87.198:8555/live/1431/123456/162.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS",ZOOMOO
+#EXTINF:-1 group-title="CANAIS | ABETO",ZOOMOO
 http://168.205.87.198:8555/live/5803/123456/162.ts
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/lFkmVqX.png",Hallo!Doc.
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/lFkmVqX.png",Hallo!Doc.
 https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ABETOS" tvg-logo="https://i.imgur.com/t97qwNh.png",AnimalPlanetHD
+#EXTINF:-1 group-title="CANAIS | ABETO" tvg-logo="https://i.imgur.com/t97qwNh.png",AnimalPlanetHD
 http://185.152.67.187:14386/
 #EXTINF:-1 group-title="CANAIS | ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp",OtakuSign
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
@@ -1512,6 +1512,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/KQt9WGA.png",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
 
 
 #EXTINF:-1 group-title="CANAIS | XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2xpjrA21eyFO4txBkheEifDqkGfiBNZqSg&s",Anal | US
