@@ -1362,34 +1362,6 @@ https://streaming.livespanel.com:20959/cidadefmlem
 #EXTINF:-1 group-title="RÁDIO" tvg-logo="https://i.imgur.com/UiNMxT2.png",Mix Bahia
 https://8175.brasilstream.com.br/stream
 
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/BMV8Nbn.png",Hallo! Series
-https://cdn-5.nxplay.com.br/HALLOSERIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/Z8BnjPs.png",Hallo! Classic
-https://cdn-5.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/Q16ZNjl.png",Hallo! Movies
-https://cdn-5.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/2HaiovZ.png",Hallo Anime HD²
-https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/lFkmVqX.png",Hallo! Doc.
-https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/6hDnWxA.png",Hallo! Music
-https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/3Wpaz9E.png",Runtime Ação HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/5aavtj1.png",Runtime TV e Filmes Grátis
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/TZ7LfjB.png",Runtime Comédia HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/pFtnILf.png",Runtime Família
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/U6ElKK3.png",Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/bzX7MO8.png",Cine Espanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/KQt9WGA.png",Runtime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-
 #EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://i.imgur.com/NhguLFB.png",Pluto TV Mistérios
 https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
 #EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://i.imgur.com/0ktlcZV.png",Pluto TV Aliens
