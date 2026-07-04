@@ -1362,34 +1362,6 @@ https://streaming.livespanel.com:20959/cidadefmlem
 #EXTINF:-1 group-title="RÁDIO" tvg-logo="https://i.imgur.com/UiNMxT2.png",Mix Bahia
 https://8175.brasilstream.com.br/stream
 
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/BMV8Nbn.png",Hallo! Series
-https://cdn-5.nxplay.com.br/HALLOSERIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/Z8BnjPs.png",Hallo! Classic
-https://cdn-5.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/Q16ZNjl.png",Hallo! Movies
-https://cdn-5.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/2HaiovZ.png",Hallo Anime HD²
-https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/lFkmVqX.png",Hallo! Doc.
-https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="HALLO!" tvg-logo="https://i.imgur.com/6hDnWxA.png",Hallo! Music
-https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/3Wpaz9E.png",Runtime Ação HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/5aavtj1.png",Runtime TV e Filmes Grátis
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/TZ7LfjB.png",Runtime Comédia HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/pFtnILf.png",Runtime Família
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/U6ElKK3.png",Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/bzX7MO8.png",Cine Espanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 group-title="Runtime TV" tvg-logo="https://imgur.com/KQt9WGA.png",Runtime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-
 #EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://i.imgur.com/NhguLFB.png",Pluto TV Mistérios
 https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
 #EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://i.imgur.com/0ktlcZV.png",Pluto TV Aliens
@@ -1739,6 +1711,495 @@ https://live.adultiptv.net/russian.m3u8?PlaylistM3UCL
 https://live.adultiptv.net/teen.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CANAIS | XXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2xpjrA21eyFO4txBkheEifDqkGfiBNZqSg&s",Threesome | US
 https://live.adultiptv.net/threesome.m3u8?PlaylistM3UCL
+
+-----------------------------	ANIMES ---------------------------------------------
+
+
+
+
+
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.01
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/01.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.02
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/02.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.03
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/03.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.04
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/04.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.05
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/05.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.06
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/06.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.07
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/07.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.08
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/08.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.09
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/09.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.10
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/10.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.11
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/11.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.12
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/12.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.13
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/13.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/12/kDtcjC5RDMyEFnq5OlbQoLAG22J-212x300.jpg",BLUE LOCK Ep.14
+https://animeflix.blog/Animes/Letra-B/Blue%20Lock%202/Dub/14.mp4
+
+
+
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.01
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/01.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.02
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/02.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.03
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/03.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.04
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/04.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.05
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/05.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.06
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/06.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.07
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/07.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.08
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/08.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.09
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/09.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.10
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/10.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.11
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/11.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.12
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/12.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.13
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/13.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.14
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/14.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.15
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/15.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.16
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/16.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.17
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/17.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.18
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/18.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.19
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/19.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.20
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/20.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.21
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/21.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.22
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/22.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.23
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/23.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.24
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/24.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.25
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/25.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.26
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/26.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.27
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/27.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.28
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/28.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.29
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/29.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.30
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/30.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.31
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/31.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.32
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/32.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.33
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/33.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.34
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/34.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.35
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/35.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.36
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/36.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.37
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/37.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.38
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/38.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1988/04/Samurai-Warriors-animesonline.cloud_-200x300.jpg",SAMBURAI WARRIORS Ep.39
+https://animeflix.blog/Animes/Letra-Y/Yoroiden%20Samurai%20Troopers/Dub/39.mp4
+
+
+
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.01
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/01.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.02
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/02.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.03
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/03.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.04
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/04.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.05
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/05.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.06
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/06.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.07
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/07.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.08
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/08.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.09
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/09.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.10
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/10.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.11
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/11.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.12
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/12.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.13
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/13.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.14
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/14.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.15
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/15.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.16
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/16.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.17
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/17.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.18
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/18.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.19
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/19.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.20
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/20.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.21
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/21.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.22
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/22.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.23
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/23.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.24
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/24.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.25
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/25.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.26
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/26.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.27
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/27.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.28
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/28.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.29
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/29.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.30
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/30.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.31
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/31.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.32
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/32.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.33
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/33.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.34
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/34.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.35
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/35.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.36
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/36.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.37
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/37.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/1989/04/Tenkuu-Senki-Shurato-animesonline.cloud_-201x300.png",SHURATO Ep.38
+https://animeflix.blog/Animes/Letra-T/Tenkuu%20Senki%20Shurato/Dub/38.mp4
+
+
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.01
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/01.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.02
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/02.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.03
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/03.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.04
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/04.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.05
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/05.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.06
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/06.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.07
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/07.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.08
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/08.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.09
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/09.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.10
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/10.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.11
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/11.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.12
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/12.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.13
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/13.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.14
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/14.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.15
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/15.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.16
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/16.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.17
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/17.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.18
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/18.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.19
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/19.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.20
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/20.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.21
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/21.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.22
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/22.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.23
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/23.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.24
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/24.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.25
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/25.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.26
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/26.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.27
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/27.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.28
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/28.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2025/03/mhK51roYnFMxpYmFpmEBHYwCHNt-200x300.jpg",STREET FIGHTER Ep.29
+https://animeflix.blog/Desenhos/Street%20Fighter%20II%20Victory/Dublado/29.mp4
+
+
+
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.01
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/01.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.02
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/02.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.03
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/03.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.04
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/04.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.05
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/05.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.06
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/06.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.07
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/07.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.08
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/08.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.09
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/09.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.10
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/10.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.11
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/11.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.12
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/12.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.13
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/13.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.14
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/14.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.15
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/15.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.16
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/16.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.17
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/17.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.18
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/18.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.19
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/19.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.20
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/20.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.21
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/21.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.22
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/22.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.23
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/23.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.24
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/24.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.25
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/25.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.26
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/26.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.27
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/27.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.28
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/28.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.29
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/29.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.30
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/30.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.31
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/31.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.32
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/32.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.33
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/33.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.34
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/34.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.35
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/35.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.36
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/36.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.37
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/37.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.38
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/38.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.39
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/39.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.40
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/40.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.41
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/41.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.42
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/42.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.43
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/43.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.44
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/44.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.45
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/45.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.46
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/46.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.47
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/47.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.48
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/48.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.49
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/49.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.50
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/50.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.51
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/51.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.52
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/52.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.53
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/53.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.54
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/54.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.55
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/55.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.56
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/56.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.57
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/57.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.58
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/58.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.59
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/59.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.60
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/60.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.61
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/61.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.62
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/62.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.63
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/63.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.64
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/64.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.65
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/65.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.66
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/66.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.67
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/67.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.68
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/68.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.69
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/69.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.70
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/70.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.71
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/71.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.72
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/72.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.73
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/73.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.74
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/74.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.75
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/75.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.76
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/76.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.77
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/77.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.78
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/78.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.79
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/79.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.80
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/80.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.81
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/81.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.82
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/82.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.83
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/83.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.84
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/84.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.85
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/85.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.86
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/86.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.87
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/87.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.88
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/88.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.89
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/89.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.90
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/90.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.91
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/91.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.92
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/92.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.93
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/93.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.94
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/94.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.95
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/95.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.96
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/96.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.97
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/97.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.98
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/98.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.99
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/99.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.100
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/100.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.101
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/101.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.102
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/102.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.103
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/103.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.104
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/104.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.105
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/105.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.106
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/106.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.107
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/107.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.108
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/108.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.109
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/109.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.110
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/110.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.111
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/111.mp4
+#EXTINF:-1group-title="ANIMES"tvg-logo="https://animesonline.cloud/wp-content/uploads/2024/05/Aq5af62w7eQlqjK6vgpEbFA8Z2b-200x300.jpg",YU YU HAKUSHO Ep.112
+https://animeflix.blog/Animes/Letra-Y/Yu%20Yu%20Hakusho/Dublado/112.mp4
+
+
+
+
+
+
+
 
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-avatar-a-lenda-de-aang-dublado-todos-os-episodios-online-animesdigital-210x300.jpg",AVATAR 01E01
 https://cdn-s01.mywallpaper-4k-image.net/stream/a/avatar-a-lenda-de-aang-dublado/01.mp4/index.m3u8
@@ -2558,58 +3019,62 @@ http://shd12.oneplayer.site/token/SHD12/235930/1x7.mp4
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://i.imgur.com/CDCDuxf.png",DEVILMAYCRYS01E08
 http://shd12.oneplayer.site/token/SHD12/235930/1x8.mp4
 
+
+
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.01
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/01.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/01.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.02
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/02.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/02.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.03
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/03.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/03.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.04
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/04.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/04.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.05
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/05.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/05.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.06
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/06.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/06.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.07
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/07.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/07.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.08
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/08.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/08.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.09
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/09.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/09.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.10
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/10.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/10.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.11
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/11.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/11.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.12
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/12.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/12.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.13
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/13.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/13.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.14
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/14.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/14.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.15
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/15.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/15.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.16
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/16.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/16.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.17
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/17.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/17.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.18
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/18.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/18.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.19
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/19.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/19.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.20
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/20.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/20.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.21
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/21.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/21.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.22
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/22.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/22.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.23
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/23.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/23.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.24
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/24.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/24.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.25
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/25.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/25.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T1EP.26
-https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-dublado/26.mp4/index.m3u8
+https://cdn.imagesskill.com/stream/k/kimetsu-no-yaiba-dublado/26.mp4/index.m3u8
+
+
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T2EP.01
 https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-mugen-ressha-hen-tv-dublado/01.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T2EP.02
@@ -2624,6 +3089,8 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-mugen-re
 https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-mugen-ressha-hen-tv-dublado/06.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T2EP.07
 https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-mugen-ressha-hen-tv-dublado/07.mp4/index.m3u8
+
+
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T3EP.01
 https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-yuukaku-hen-dublado/01.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T3EP.02
@@ -2646,6 +3113,8 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-yuukaku-
 https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-yuukaku-hen-dublado/10.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T3EP.11
 https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-yuukaku-hen-dublado/11.mp4/index.m3u8
+
+
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T4EP.01
 https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/01.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T4EP.02
@@ -2668,6 +3137,8 @@ https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-katanaka
 https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/10.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T4EP.11
 https://cdn-s01.mywallpaper-4k-image.net/stream/animes/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/11.mp4/index.m3u8
+
+
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T5EP.01
 https://cdn-s01.mywallpaper-4k-image.net/stream/k/kimetsu-no-yaiba-hashira-geiko-hen-dublado/01.mp4/index.m3u8
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://sushianimes.com.br/public/upload/cover/kimetsu-no-yaiba-dublado.webp",kimetsunoyaiba T5EP.02
@@ -3185,6 +3656,8 @@ https://animeflix.blog/Animes/Letra-Y/Yu-Gi-Oh!%20Duel%20Monsters/Dub/222.mp4
 https://animeflix.blog/Animes/Letra-Y/Yu-Gi-Oh!%20Duel%20Monsters/Dub/223.mp4
 #EXTINF:-1group-title="ANIMES"tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Yu-Gi-Oh%21_vol._1.png",Yu-Gi-Oh!Ep.223
 https://animeflix.blog/Animes/Letra-Y/Yu-Gi-Oh!%20Duel%20Monsters/Dub/224.mp4
+
+------------------------------------------DESENHOS ANIMADOS----------------------------------------------
 
 #EXTINF:-1group-title="DESENHOS | ANIMADOS"tvg-logo="https://animesdigital.org/wp-content/uploads/2021/10/assistir-ben-10-dublado-todos-os-episodios-online-animesdigital.jpg",ben101
 https://cdn-s01.mywallpaper-4k-image.net/stream/b/ben-10-dublado/01.mp4/index.m3u8
