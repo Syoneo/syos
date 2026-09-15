@@ -1,9 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/0Pb8NOA.png",Globo SP HD
+https://cdn-mg1.satlabscloud.com.br/GLOBO_SP/index.m3u8
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/0Pb8NOA.png",Globo SP sd
+https://cdn-mg1.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/0Pb8NOA.png",Globo BA HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 group-title="CANAIS | RECORD TV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV SP HD
+https://cdn-mg1.satlabscloud.com.br/RECORD_SP/index.m3u8
+#EXTINF:-1 group-title="CANAIS | RECORD TV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV SP HD
+https://cdn-mg1.satlabscloud.com.br/RECORD_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 group-title="CANAIS | RECORD TV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/13
 #EXTINF:-1 group-title="CANAIS | RECORD TV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV Conquista HD
@@ -12,6 +20,10 @@ https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS | RECORD TV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band SP
+https://cdn-mg1.satlabscloud.com.br/BAND_SP/index.m3u8
+#EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band SP
+https://cdn-mg1.satlabscloud.com.br/BAND_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/3
 #EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band TV RBA TV
@@ -22,6 +34,16 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 https://video09.logicahost.com.br/tvmodelo/tvmodelo/chunklist_w146878062.m3u8
 #EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/jCZzNjF.png",Band News HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
+#EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/vSKVrvH.png",NEW BRASIL HD
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/qKwrAUT.png",MasterChef
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil_BR/Masterchef_Brasil.m3u8
+#EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://img.platform.wurl.dev/channel/2176/lg/3943d0/LG-Logo-PNG-100x100_v1.png",Terra Viva
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="https://i.imgur.com/KO1v3pS.png",SBT SP SD
+https://cdn-mg1.satlabscloud.com.br/SBT_SP/index
+#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="https://i.imgur.com/KO1v3pS.png",SBT SP HD
+https://cdn-mg1.satlabscloud.com.br/SBT_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="https://i.imgur.com/LnApLKd.png",SBT NEWS
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="https://i.imgur.com/KO1v3pS.png",SBT SP HD
@@ -46,17 +68,52 @@ https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS | RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png",RedeTV! Ro
 https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
-
 #EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/LSZ5VKi.png",Band Sports HD
 http://185.152.67.187:14474/
 #EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/LSZ5VKi.png",Band Sports HD²
 http://streamer.sattvacabo.com.br/BAND_SPORTS_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-#EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/vSKVrvH.png",NEW BRASIL HD
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
-#EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://i.imgur.com/qKwrAUT.png",MasterChef
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil_BR/Masterchef_Brasil.m3u8
-#EXTINF:-1 group-title="CANAIS | BAND TV" tvg-logo="https://img.platform.wurl.dev/channel/2176/lg/3943d0/LG-Logo-PNG-100x100_v1.png",Terra Viva
-https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/JYoNKmt.png",Max 2
+https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/ttHpdGp.png",SporTV 3 HD
+http://170.83.49.66:8083/SPORTV3HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTESESPORTES" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN FHD
+https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 HD
+http://45.162.64.114:80/ESPN_4/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 6 HD
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/TnHuVPZ.png",Ge TV HD (LG TV)
+https://amg00716-globo-amg00716c1-lg-br-9609.playouts.now.amagi.tv/playlist/amg00716-globo-gefast-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/TnHuVPZ.png",Ge TV (TCL TV)
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/TnHuVPZ.png",Ge TV HD (SamsungTV)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/oJJ8AAI.png",Cazé TV HD
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/oJJ8AAI.png",Cazé TV FHD
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/3V3GMDh.png",XSports
+https://cr7v.short.gy/manoitv/X-Sports/Index.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/RSHGmuX.png",Desempedido HD
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/RSHGmuX.png",Desempedido FHD
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/7QnJojr.png",NSPORTS HD
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/j91PkWC.png",Canal Goat
+https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png",FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/uoPNiM1.png",Woohoo
+http://gerenciar.vivatele.com/viva_padrao/viva2384/73
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/7HTxrEq.png",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/bEA7KyI.png",Acelerados
+https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/4eaKYJu.png",Racer Brasil
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/7N_Sports/MAVTV_Brasil_BR/MAVTV_Brasil.m3u8
+#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/6fU9ulW.png",Esportes Brasília
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 
 #EXTINF:-1 group-title="CANAIS | ABERTO" tvg-logo="https://i.imgur.com/lm4HhaL.png",TV Cristal - TV A Crítica TO
 https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
@@ -325,54 +382,14 @@ https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 group-title="CANAIS | INFANTIL" tvg-logo="https://i.imgur.com/1NPDhgI.png",TV Itapetinga
 https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS | SporTV" tvg-logo="https://i.imgur.com/ttHpdGp.png",SporTV 3 HD
-http://170.83.49.66:8083/SPORTV3HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN FHD
-https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPN" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 HD
-http://45.162.64.114:80/ESPN_4/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 6 HD
-http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1 group-title="CANAIS | LUTAS" tvg-logo="https://i.imgur.com/HIiZUQN.png",Combate HD
 http://46.151.196.223:14468/
 #EXTINF:-1 group-title="CANAIS | LUTAS" tvg-logo="https://i.imgur.com/AvV9rW9.png",UFC Fightpass HD
 https://cr7v.short.gy/manofree/UFC/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS | LUTAS" tvg-logo="https://i.imgur.com/AvV9rW9.png",UFC Fightpass HD²
 https://cr7v.short.gy/manofree/UFC2/ZAP075991634025/index.m3u8
-#EXTINF:-1 group-title="ao vivo | PPV ESPORTES" tvg-logo="https://i.imgur.com/JYoNKmt.png",Max 2
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/TnHuVPZ.png",Ge TV HD (LG TV)
-https://amg00716-globo-amg00716c1-lg-br-9609.playouts.now.amagi.tv/playlist/amg00716-globo-gefast-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/TnHuVPZ.png",Ge TV (TCL TV)
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/TnHuVPZ.png",Ge TV HD (SamsungTV)
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/oJJ8AAI.png",Cazé TV HD
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/oJJ8AAI.png",Cazé TV FHD
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/3V3GMDh.png",XSports
-https://cr7v.short.gy/manoitv/X-Sports/Index.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/RSHGmuX.png",Desempedido HD
-https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/RSHGmuX.png",Desempedido FHD
-https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/7QnJojr.png",NSPORTS HD
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/j91PkWC.png",Canal Goat
-https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png",FUEL TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/uoPNiM1.png",Woohoo
-http://gerenciar.vivatele.com/viva_padrao/viva2384/73
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/7HTxrEq.png",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/bEA7KyI.png",Acelerados
-https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/4eaKYJu.png",Racer Brasil
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/7N_Sports/MAVTV_Brasil_BR/MAVTV_Brasil.m3u8
-#EXTINF:-1 group-title="CANAIS | ESPORTES" tvg-logo="https://i.imgur.com/6fU9ulW.png",Esportes Brasília
-https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
+
+
 
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="https://imgur.com/RxETCgZ.png",SPACE HD
 http://45.162.64.114/SPACE/index.m3u8
