@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/0Pb8NOA.png",Globo SP HD
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo SP HD
 https://cdn-mg1.satlabscloud.com.br/GLOBO_SP/index.m3u8
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/0Pb8NOA.png",Globo SP sd
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo SP sd
 https://cdn-mg1.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/0Pb8NOA.png",Globo BA HD
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo BA HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 group-title="CANAIS | RECORD TV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",RecordTV SP HD
 https://cdn-mg1.satlabscloud.com.br/RECORD_SP/index.m3u8
